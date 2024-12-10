@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\SpaceCenter\SpaceCenter\obj\Debug\SpaceCenter.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\SpaceCenter\SpaceCenter\obj\Debug\SpaceCenter.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SpaceCenter\SpaceCenter\bin\Debug\SpaceCenter.exe.config
+C:\Users\admin\Desktop\SpaceCenter\SpaceCenter\bin\Debug\SpaceCenter.exe
+C:\Users\admin\Desktop\SpaceCenter\SpaceCenter\bin\Debug\SpaceCenter.pdb
+C:\Users\admin\Desktop\SpaceCenter\SpaceCenter\obj\Debug\SpaceCenter.exe
+C:\Users\admin\Desktop\SpaceCenter\SpaceCenter\obj\Debug\SpaceCenter.pdb
